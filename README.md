@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KeshavSharma0123
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java with DSA
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
